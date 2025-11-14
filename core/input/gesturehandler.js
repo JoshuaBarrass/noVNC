@@ -28,7 +28,7 @@ const GH_MULTITOUCH_TIMEOUT = 250;
 const GH_TAP_TIMEOUT = 250;
 
 // Timeout when waiting for longpress (ms)
-const GH_LONGPRESS_TIMEOUT = 250;
+const GH_LONGPRESS_TIMEOUT = 50;
 
 // Timeout when waiting to decide between PINCH and TWODRAG (ms)
 const GH_TWOTOUCH_TIMEOUT = 50;
