@@ -25,10 +25,10 @@ const GH_ANGLE_THRESHOLD = 90; // Degrees
 const GH_MULTITOUCH_TIMEOUT = 250;
 
 // Maximum time between press and release for a tap (ms)
-const GH_TAP_TIMEOUT = 1000;
+const GH_TAP_TIMEOUT = 250;
 
 // Timeout when waiting for longpress (ms)
-const GH_LONGPRESS_TIMEOUT = 1000;
+const GH_LONGPRESS_TIMEOUT = 250;
 
 // Timeout when waiting to decide between PINCH and TWODRAG (ms)
 const GH_TWOTOUCH_TIMEOUT = 50;
